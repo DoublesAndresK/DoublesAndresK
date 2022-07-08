@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DoublesAndresK
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Laravel and ReactJs
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on sharing experiences
 - 📫 How to reach me by contacting my gmail, heinthantzaw52@gmail.com
 
 <!---
